@@ -13,6 +13,4 @@ The Event Management System is a relational database designed to streamline the 
      Promote sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all.
 
 
-The Event Management System is a relational database that centralizes the planning and coordination of events in Kenya.
-It connects organizers, venues, attendees, tickets, staff, and sponsors in one unified system, replacing manual spreadsheets and WhatsApp-based workflows.
-It enforces data integrity through referential constraints, tracks ticket revenue and sponsorship contributions, and supports multiple events running simultaneously.
+The Event Management System connects organizers, venues, attendees, tickets, staff, and sponsors in one unified system, replacing manual spreadsheets and WhatsApp-based workflows.It enforces data integrity through referential constraints, tracks ticket revenue and sponsorship contributions, and supports multiple events running simultaneously.
