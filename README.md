@@ -5,7 +5,7 @@ The Event Management System is a relational database designed to streamline the 
      2.Mohamed Abdikadir                 190125
      3.Geena Wambani                     184576
      4.Collins Owende                    192277
-     5.Iancecil Waweru                   134669
+     5.Iancecil Waweru Njoroge                 134669
      6.Mueni Cindy Kimberly Diana        219930
 
      Project SDG
